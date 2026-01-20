@@ -47,3 +47,4 @@ Violence detection in surveillance and public safety systems is critical for pro
 
 - **Validation Accuracy**: 97%
 - **Model Behavior**: Robust against diverse lighting, backgrounds, and action speeds.
+- Application Link - https://huggingface.co/spaces/Mohan312/Violence_detection
